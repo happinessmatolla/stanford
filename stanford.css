@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('pngtree-super-creative-abstract-background-design-template-picture-image_1269675.jpg');   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{color: white;
+   
+    text-align: center;
+    font-size:60px ;
+    font-style: italic;
+    padding: 20px; 
+}
+h2{
+    text-align: center;
+}
+p{ 
+    text-align: center;
+    font-size: x-large;
+    font-style: oblique;
+}
+.container{
+    background-image: url(background-images-with-line-art-hd-1080p-free-download-hd_822642-407.jpg);
+    display: flex;
+    align-items: center;
+    background-size: cover;
+
+}
+.text{
+    margin-left: 20px;
+    fo
+}
+.main{
+    margin: 0 auto;
+    padding: 20px;
+    background-image: url() ;
+}
+.sct1{
+    display: flex;
+    align-items: center;
+}
+.text2{    margin-left: 20px;
+    font-size: x-large;
+    
+}
+h3{
+    text-align: center;
+    text-decoration: black;
+    font-style: italic;
+}
